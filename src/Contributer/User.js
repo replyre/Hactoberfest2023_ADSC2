@@ -21,7 +21,12 @@ const user =[
         'about':'Hello I am Likeur , Frontend web developer , open source contributer.',
         'linkedinProfile':'https://www.linkedin.com/in/likeur-off-47984327a/',
     },
-    
+      {
+        'name':'Rahul Gupta',
+        'github_username':'replyre',
+        'about':'Hello I am Rahul Gupta , Frontend web developer , open source contributer.',
+        'linkedinProfile':'https://www.linkedin.com/in/replyr/',
+    },
     
 ]
 
